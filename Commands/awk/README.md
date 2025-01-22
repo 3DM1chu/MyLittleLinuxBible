@@ -1,0 +1,1 @@
+Thanks https://github.com/ifding/useful-scripts/blob/master/sed-awk/awk_tutorial.md
